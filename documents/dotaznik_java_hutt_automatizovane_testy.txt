@@ -1,0 +1,89 @@
+1.)
+
+Používate viac ako jednu techniku/vrstvu testovania spomenutých pri prezentácií na svojich projektoch/práci ?
+
+(ÁNO / NIE)
+
+
+
+2.)
+
+Považujete detailné testovacie scenáre a vysoké pokrytie usecasov a testovaného kódu za prínos pre projekt po zohľadnení času a prostriedkov vynaložených na túto aktivitu ? 
+
+(ÁNO / NIE)
+
+
+
+3.)
+
+Máte na svojom projekte/oddelení človeka/ľudí ktorý sa špecializujú na vytváranie automatizovaných testov alebo sa jedná o činnosť do ktorej je rovným dielom zapájaný každý vývojár z týmu ?
+
+(Zapájajú sa všetci / Len unit a integračné v codebase projektu / Nepíšem absolútne žiadne testy)
+
+
+
+4.)
+
+Ak sa budete nachádzať v pozícií že pracujete na sólo projekte alebo vediete startup, budete sa zaoberať problematikov automatizovaného testovania ?
+
+(ÁNO / Minimálne / Vôbec)
+
+
+
+5.)
+
+Bol pre Vás obsah prednášky dostatočne informatívny, dozvedeli ste sa nejaké nové informácie, ktorými ste predtým o danej problematike nedisponovali ?
+
+(ÁNO / NIE)
+
+
+
+6.)
+
+Aký máte názor na informačnú hodnotu a hĺbku prezentácie ?
+
+(
+	a.) Príliš všeobecné a povrchné informácie, vhodné len pre získanie povedomia.
+	b.) Príliš exaktné a hlboké informácie, na úkor času a množstva iných informácií, ktoré mohli byť získané.
+	c.) Vyvážený pomer
+)
+
+
+
+7.)
+
+V prípade, že ste sa dozvedeli nové informácie alebo postupy a techniky - budete zvažovať ich použitie v praxi ?
+
+(ÁNO / NIE)
+
+
+
+8.)
+
+Boli ste celkovo spokojný so znalosťou problematiky prezentujúceho, napríklad pri odpovedaní na dotazy ?
+
+(ÁNO / na 50% / vôbec)
+
+
+
+9.)
+
+Bola v prezentácií podľa Vás vynechaná/zabudnutá určitá tématika/oblasť ktorú mal prezentujúci minimálne okrajovo spomenúť ?
+
+(ÁNO / NIE / Neviem o žiadnej)
+
+
+
+10.)
+
+Bolo usporiadanie tematických okruhov a oblastí v prezentácií podľa Vás logické a naväzujúce ?
+
+(ÁNO / NIE)
+
+
+
+11.) 
+
+Ohodnoťte známkou, ako celkovo bola samotná téma automatizovaného testovania pre Vás relevantná a zaujímavá
+
+(1 / 2 / 3 / 4 / 5) 
