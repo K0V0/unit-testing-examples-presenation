@@ -1,13 +1,8 @@
 package com.example.demo.unit.powermock;
 
-import com.example.demo.repositories.UserRepository;
-import com.example.demo.repositories.UserRepositoryImpl;
 import com.example.demo.services.UserServiceImpl;
 import org.junit.jupiter.api.Test;
 import org.junit.runner.RunWith;
-import org.mockito.InjectMocks;
-import org.mockito.Mock;
-import org.mockito.Spy;
 import org.powermock.api.mockito.PowerMockito;
 import org.powermock.core.classloader.annotations.PrepareForTest;
 import org.powermock.modules.junit4.PowerMockRunner;
@@ -16,7 +11,6 @@ import org.powermock.reflect.Whitebox;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotNull;
 import static org.mockito.Mockito.times;
-import static org.mockito.Mockito.when;
 import static org.powermock.api.mockito.PowerMockito.spy;
 import static org.powermock.api.mockito.PowerMockito.verifyPrivate;
 
